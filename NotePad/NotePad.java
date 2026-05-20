@@ -1,6 +1,8 @@
+package NotePad;
 import javax.swing.*;
 import javax.swing.event.*;
 import javax.swing.undo.*;
+
 import java.awt.event.*;
 
 public class NotePad implements ActionListener {

@@ -1,3 +1,4 @@
+package Chat_App;
 import java.sql.*;
 
 public class Database {
